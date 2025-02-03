@@ -53,6 +53,7 @@ This repository includes two case studies:
 ## Folder Structure
 Here’s an overview of the repository structure:
 
+```
 TransitSim4/
 ├── README.md
 ├── transitsim.ipynb
@@ -77,6 +78,7 @@ TransitSim4/
 │   ├── sample_processed/
 │   ├── f_l_path/
 ├── LICENSE
+```
 
 ---
 
