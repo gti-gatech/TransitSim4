@@ -78,6 +78,7 @@ TransitSim4/
 │   ├── sample_processed/
 │   ├── f_l_path/
 ├── LICENSE
+├── results.zip
 ```
 
 ---
