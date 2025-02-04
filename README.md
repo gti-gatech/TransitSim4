@@ -84,3 +84,4 @@ TransitSim4/
 ---
 
 ## License
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License – see the [license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
