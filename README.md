@@ -23,7 +23,7 @@ To install TransitSim 4.0, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TransitSim4.git
+   git clone https://github.com/gti-gatech/TransitSim4.git
    cd TransitSim4
    ```
 2. Set up a virtual environment (recommended):
